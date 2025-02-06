@@ -279,7 +279,7 @@ section.success {
     }
   } */
 
-/*.btn-outline {
+.btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
@@ -295,7 +295,7 @@ section.success {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
-}*/
+}
 
 .floating-label-form-group {
     position: relative;
