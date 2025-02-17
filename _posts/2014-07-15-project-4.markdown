@@ -5,7 +5,7 @@ date: 2014-07-15
 img: game.png
 alt: image-alt
 project-date: 
-client: Power BI 
+client: 
 category: Power BI
 description: The large shares traded for a stock was in the last week of August 2015, especifically  August 24 th with 4607945196 volume. BAC - Bank of America (214649482) and Apple(1622066292) weres the stocks that traded most. The Day of the week with more volume is Wednesday and Monday the less. Tha most volatility day for Amazon (AMNZ) for example was the June 09 th of 2017. Difference of $85.99.
 ---
