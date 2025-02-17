@@ -9,7 +9,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 p.small {
@@ -55,7 +55,7 @@ hr.star-primary:after {
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 hr.star-light {
