@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 
 client: Bank Churn Custumers
 category: Tableau
-description: Most of those who leave the bank have been customers for less than a year, their estimated salary is equal to the balance on their bank statement. The age group most likely to leave is 41-50 years old. France has the highest client amount, but this does not mean a better balance. German accounts --Salary: 101-- have the highest balances, doubling those of France and Spain --Salary: 99K--, although the average salary is practically the same --Salary: Germany 101K, France 100K, Spain 99K.
+description: Most of those who leave the bank have been customers for less than a year, their estimated salary is equal to the balance on their bank statement. The age group most likely to leave is 41-50 years old. France has the highest client amount, but this does not mean a better balance. German accounts --Salary: 101-- have the highest balances, doubling those of France and Spain --Salary: 99K--, although the average salary is practically the same --Salary: Germany 101K, --France 100K, Spain 99K.
 ---
