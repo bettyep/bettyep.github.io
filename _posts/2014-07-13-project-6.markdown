@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 
+client: Mortality Study
+category: Power BI
+description: The dataset covers a mortality range from 86M to 105M deaths per year (or per 100,000 people). The highest recorded death rate was in Mali/1970, while the lowest was in Japan/2010. Mortality is highest among 0 to 6 days, contributing to 62% of total deaths. Infant mortality (ages 0-5) and elderly mortality (65+) show distinct trends, often linked to healthcare quality and disease prevalence. The total number of deaths has increased by 8% from 1970 to 210. Regional trends indicate that India experiences consistently high mortality, often due to poverty, conflict, lack of healthcare access.
 ---
