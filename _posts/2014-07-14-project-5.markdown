@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 
 client: Lead Generation
 category: Power BI
-description: 
+description: Top-performing channel Health. Best month of th year in revenue, August. Best month respect lead generated March. Leads best converted salary range 60k-100k. Florida and Texas are the states with the highest traffic. Only 45% of the leads generated were sold. Expand lead generation in regions with faster conversions. Automate repetitive tasks in slow stages. Implement faster follow-ups for high-scoring leads. Prioritize channels with low Custumer acquisition cost and high conversion.
 ---
